@@ -1,5 +1,5 @@
 ﻿body {
-    /*padding-top: 50px;*/
+    padding-top: 50px;
     padding-bottom: 20px;
 }
 
@@ -36,3 +36,8 @@ textarea {
     padding-right: 0px;
     overflow-x: hidden;
 }
+
+.css-logo{
+    width: 130px;
+}
+
