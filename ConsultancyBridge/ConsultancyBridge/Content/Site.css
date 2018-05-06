@@ -1,5 +1,5 @@
 ﻿body {
-    padding-top: 50px;
+    /*padding-top: 50px;*/
     padding-bottom: 20px;
 }
 
@@ -21,4 +21,18 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+
+/*Custom CSS*/
+
+.navbar {
+    border-color: #fff6f3;
+    background-color: #fff6f3;
+    padding: 0px; 
+}
+
+.css-nomargin {
+    padding-left: 0px;
+    padding-right: 0px;
+    overflow-x: hidden;
 }
