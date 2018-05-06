@@ -1,11 +1,11 @@
 ﻿<div class="row">
-    <div class="col-sm-4"><p>&copy;@(@DateTime.Now.Year) ConsultancyBridge. All Rights Reserved.</p></div>
+    <div class="col-sm-4"><p>&copy;@DateTime.Now.Year ConsultancyBridge. All Rights Reserved.</p></div>
     <div class="col-sm-offset-3 col-sm-5">
         <ul class="css-footer">
-            <li class="pipe"> @Html.ActionLink("About Us", "About", "Home") </li>
-            <li class="pipe">@Html.ActionLink("Contact Us", "Contact", "Home")</li>
-            <li class="pipe">@Html.ActionLink("Terms of Service", "Terms", "Home")</li>
-            <li class="pipe">@Html.ActionLink("Privacy Policy", "Privacy", "Home")</li>
+            <li class="pipe"> @Html.ActionLink("About Us", "Index", "AboutUs", routeValues: null, htmlAttributes: new { id = "registerLink" }) </li>
+            <li class="pipe">@Html.ActionLink("Contact Us", "Index", "ContactUs", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+            <li class="pipe">@Html.ActionLink("Terms of Service", "Index", "Tos", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+            <li class="pipe">@Html.ActionLink("Privacy Policy", "Index", "Privacy", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
             <li>
                 <a href="https://www.facebook.com/ReferVille-825521247625302/" target="_blank" rel="nofollow">
                     <span class="fa-stack fa-sm">
