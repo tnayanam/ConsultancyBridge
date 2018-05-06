@@ -220,6 +220,10 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Images\15.jpeg" />
     <Content Include="Content\Images\ConsultancyBridge.jpg" />
+    <Content Include="Content\Images\Prateek.jpg" />
+    <Content Include="Content\Images\Ritolia.JPG" />
+    <Content Include="Content\Images\Tanuj.jpg" />
+    <Content Include="Content\Images\Vikash.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -279,6 +283,9 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Shared\_FooterPartial.cshtml" />
+    <Content Include="Views\Home\Privacy.cshtml" />
+    <Content Include="Views\Home\Terms.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

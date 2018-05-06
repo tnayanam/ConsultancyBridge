@@ -26,5 +26,21 @@ namespace ConsultancyBridge.Controllers
 
             return View();
         }
+
+
+        public ActionResult Privacy()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
+
+
+        public ActionResult Terms()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
     }
 }
