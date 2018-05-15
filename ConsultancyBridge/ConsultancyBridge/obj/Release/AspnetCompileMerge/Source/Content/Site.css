@@ -533,9 +533,9 @@ textarea {
 }
 
 /*make card image half out of card*/
-#authors img {
+/*#authors img {
     margin-top: -50px;
-}
+}*/
 
 .img-fluid {
     max-width: 100%;

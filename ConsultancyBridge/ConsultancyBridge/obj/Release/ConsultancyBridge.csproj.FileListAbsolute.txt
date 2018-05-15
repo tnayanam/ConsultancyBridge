@@ -82,3 +82,4 @@ C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBrid
 C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\obj\Release\ConsultancyBridge.csproj.GenerateResource.Cache
 C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\obj\Release\ConsultancyBridge.dll
 C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\obj\Release\ConsultancyBridge.pdb
+C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\obj\Release\ConsultancyBridge.csprojResolveAssemblyReference.cache
