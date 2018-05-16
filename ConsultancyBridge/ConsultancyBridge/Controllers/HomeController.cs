@@ -13,7 +13,6 @@ namespace ConsultancyBridge.Controllers
             _context = new ApplicationDbContext();
         }
 
-
         public ActionResult Index()
         {
             return View();
@@ -27,6 +26,11 @@ namespace ConsultancyBridge.Controllers
         }
 
         public ActionResult Contact()
+        {
+            return View();
+        }
+
+        public ActionResult Career()
         {
             return View();
         }
