@@ -77,9 +77,9 @@ C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBrid
 C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\obj\Debug\ConsultancyBridge.csprojResolveAssemblyReference.cache
 C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\obj\Debug\ConsultancyBridge.dll
 C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\obj\Debug\ConsultancyBridge.pdb
 C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\obj\Debug\ConsultancyBridge.Migrations.UserTable.resources
 C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\obj\Debug\ConsultancyBridge.csproj.GenerateResource.Cache
 C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\obj\Debug\ConsultancyBridge.Migrations.ContactClassAdded.resources
+C:\Users\lenovo\Desktop\demo\ConsultancyBridge\ConsultancyBridge\ConsultancyBridge\obj\Debug\ConsultancyBridge.csprojResolveAssemblyReference.cache
